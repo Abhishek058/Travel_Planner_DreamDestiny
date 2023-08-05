@@ -37,6 +37,8 @@
     ]
   },
   "devDependencies": {
-    "saas": "^1.0.0"
+    "node-sass": "^7.0.3",
+    "saas": "^1.0.0",
+    "sass": "^1.64.2"
   }
 }
