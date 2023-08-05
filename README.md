@@ -1,4 +1,4 @@
-# Travel Planner Ap
+# Travel Planner App
 
 ![Travel Planner App Logo](link-to-your-logo.png)
 
@@ -27,11 +27,9 @@ Welcome to the Travel Planner App! This application is designed to help traveler
 
 - **Collaboration:** Share your itinerary with friends and family, allowing them to view and contribute to your plans.
 
-- **Offline Access:** Access your travel plans and information even when you're offline.
-
 ## Screenshots
 
-_Insert some screenshots or GIFs showcasing your app's UI and features._
+![Alt text](asset/image.png)
 
 ## Installation
 
