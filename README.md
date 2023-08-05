@@ -1,6 +1,6 @@
 # Travel Planner App
 
-![Travel Planner App Logo](link-to-your-logo.png)
+![Alt text](asset/image2.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
