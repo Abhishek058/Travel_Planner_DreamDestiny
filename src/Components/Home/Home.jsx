@@ -7,7 +7,7 @@ const Home = () => {
     <section className='home'>
       <div className='overlay'>home</div>
       <video src={video}></video>
-      <h1>error</h1>
+      <h1>sujal</h1>
     </section>
   )
 }
