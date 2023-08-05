@@ -1,11 +1,13 @@
 import React from 'react'
 import "./home.css"
+import video from 'D:\Projects\dream-destiny\asset\vid1.mp4'
 
 const Home = () => {
   return (
-    <div>
-      Home
-    </div>
+    <section className='home'>
+      <div className='overlay'></div>
+      <video src={video}></video>
+    </section>
   )
 }
 
