@@ -7,10 +7,10 @@ import "./app.css";
 function App() {
   return (
     <>
-      {/* <Navbar/> */}
+      <Navbar/>
       <Home />
-      {/* <Main/> */}
-      {/* <Footer/> */}
+      <Main/>
+      <Footer/>
     </>
   );
 }
