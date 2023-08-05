@@ -62,3 +62,9 @@ img,video{
     width: 100%;
     height: auto;
 }
+input{
+    font-size: 100%;
+}
+body{
+    background: var(--bodyColor);
+}
