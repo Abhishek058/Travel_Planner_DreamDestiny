@@ -5,7 +5,7 @@ import video from 'D:\Projects\dream-destiny\asset\vid1.mp4'
 const Home = () => {
   return (
     <section className='home'>
-      <div className='overlay'></div>
+      <div className='overlay'>home</div>
       <video src={video}></video>
     </section>
   )
